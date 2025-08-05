@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "gradio>=5.39.0",
+    "matplotlib>=3.10.5",
+    "pandas>=2.3.1",
+    "path>=17.1.1",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+]
